@@ -14,7 +14,7 @@
 
 ### Using
 
-Using the token/key from step 1 above
+Insert token/key from step 1 above to following variable
 ```bash
     CONSUMER_KEY = 'WWWWWWWW'
     CONSUMER_SECRET = 'XXXXXXXX'
